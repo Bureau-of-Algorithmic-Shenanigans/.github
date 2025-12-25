@@ -1,1 +1,1 @@
-# .github
+# Bureau of Algorithmic Shenanigans
